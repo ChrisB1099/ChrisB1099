@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![alt tag](https://i.imgur.com/lxHR0id.jpeg)
 <!--
 **ChrisB1099/ChrisB1099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🌱 I’m currently learning JavaScript, HTML, CSS
