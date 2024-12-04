@@ -7,7 +7,7 @@ I’m a Software Engineer working with both frontend and backend development to 
 - 🤔 I’m looking for help with Strucure
 - 💬 Ask me about Tennis
 - 📫 How to reach me: via Email or my Twitter
-- 😄 Pronouns: He/HIm
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I grew up a two sport athlete 
 
 ## Langauges and Tools:
